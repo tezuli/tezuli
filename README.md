@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tezuli
 - 👀 I’m interested in ... creating beautiful designs and growing my knowledge
-- 🌱 I’m currently learning ... .NET
+- 🌱 I’m currently learning ... NodeJS
 - 💞️ I’m looking to collaborate on ... anything that may be useful
 - 📫 How to reach me ... by email is best. tez3645@gmail.com
 
